@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [SEO AI content writer](https://wraiter.detyna.pl)
 
-- 🌱 I’m currently learning **AI, Cybersecurity,**
+- 🌱 I’m currently learning **Cybersecurity,**
 
 - 👨‍💻 I’m currently taking [CS50’s Introduction to AI with Python](https://cs50.harvard.edu/ai/2020/)
 
