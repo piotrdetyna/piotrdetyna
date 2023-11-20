@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Cybersecurity,**
 
-- 👨‍💻 I’m currently taking [CS50’s Introduction to AI with Python](https://cs50.harvard.edu/ai/2020/)
+- 👨‍💻 I’m currently taking [CS50’s Introduction to Cybersecurity](https://cs50.harvard.edu/cybersecurity/2023/)
 
 - 📄 All my completed courses and projects are available on [https://www.linkedin.com/in/piotr-detyna-a54115241/](https://www.linkedin.com/in/piotr-detyna-a54115241/)
 
