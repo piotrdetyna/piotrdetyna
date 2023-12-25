@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Piotr Detyna</h1>
 <h3 align="center">A passionate backend developer from Poland</h3>
 
-- 🔭 I’m currently working on [SEO AI content writer](https://wraiter.detyna.pl)
-
-- 🌱 I’m currently learning **Cybersecurity,**
-
-- 👨‍💻 I’m currently taking [CS50’s Introduction to Cybersecurity](https://cs50.harvard.edu/cybersecurity/2023/)
+- 🌱 I’m currently learning **FastAPI**
 
 - 📄 All my completed courses and projects are available on [https://www.linkedin.com/in/piotr-detyna-a54115241/](https://www.linkedin.com/in/piotr-detyna-a54115241/)
 
