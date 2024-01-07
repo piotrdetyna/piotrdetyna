@@ -21,3 +21,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=piotrdetyna&show_icons=true&locale=en&layout=compact" alt="piotrdetyna" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piotrdetyna&" alt="piotrdetyna" /></p>
+<img src="https://komarev.com/ghpvc/?username=piotrdetyna">
