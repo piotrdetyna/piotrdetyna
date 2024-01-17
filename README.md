@@ -12,7 +12,7 @@
 <a href="https://linkedin.com/in/piotr-detyna-a54115241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piotr-detyna-a54115241" height="30" width="40" /></a>
 <a href="https://fb.com/piotrek.detyna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="piotrek.detyna" height="30" width="40" /></a>
 <a href="https://instagram.com/piotrek.detyna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="piotrek.detyna" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/user2169d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user2169d" height="30" width="40" /></a>
+<a href="https://leetcode.com/piotr_detyna/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user2169d" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,5 +20,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=piotrdetyna&show_icons=true&locale=en&layout=compact" alt="piotrdetyna" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piotrdetyna&" alt="piotrdetyna" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=piotrdetyna" alt="piotrdetyna" /></p>
 <img src="https://komarev.com/ghpvc/?username=piotrdetyna">
